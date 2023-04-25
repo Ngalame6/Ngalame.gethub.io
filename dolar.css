@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+h2{
+    font-size: 45px;
+    color: skyblue;
+}
+hr{
+    background-color: darkblue;
+    height: 20px;
+}
